@@ -1,0 +1,41 @@
+Thaumonomicon	Таумономікон	Книга книг по таумонології
+Arcane	Затаєний
+Curiosity	Рідкість
+Auromancy	Ауромантія
+Artifice	Винаходи
+Eldritch	Надприродне
+Ancient	Ветха	Дуже давня
+Twisted	Скручена
+Crimson	Багряні	Темно-червоні
+Vis	Віс	Назва магічної енергії
+Taint	Погань	Зараза
+Warp	Викривлення
+Pech	Печ	Печи - Народ, який живе на межі світів
+Spellbat	Магічний кажан
+Pink	Рожевий
+Banner	Стяг
+Light Gray	Світло-сірий
+Cyan	Блакитний
+Purple	Пурпурний
+Brown	Коричневий
+Nitor	Нітор
+White	Білий
+Orange	Рудий
+Magenta	Фіолетовий
+Light Blue	Світло-синій
+Yellow	Жовтий
+Lime	Лимонний
+Gray	Сірий
+Blue	Синій
+Green	Зелений
+Red	Червоний
+Black	Чорний
+Thaumium	Тауміум
+Brass	Латунь
+Thaumatorium	Тауматорій
+Thaumaturgy	Тауматургія
+Thaumometer	Таумометр
+Essentia	Есенція
+Theories	Теорія
+Observations	Спостереження
+Alchemy	Алхімія
