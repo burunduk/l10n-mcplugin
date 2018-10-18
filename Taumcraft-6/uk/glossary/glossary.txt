@@ -39,3 +39,4 @@ Essentia	Есенція
 Theories	Теорія
 Observations	Спостереження
 Alchemy	Алхімія
+Thaumaturge	Тауматург

@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%s Vis Crystal</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212629Z" creationid="olexandr" creationdate="20181018T212629Z">
+        <seg>%s Віс кристал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(%d vis/minute)</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T152352Z" creationid="olexandr" creationdate="20181012T152352Z">
@@ -142,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alchemical Brass Ingot</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212919Z" creationid="olexandr" creationdate="20181018T212919Z">
+        <seg>Злиток алхімічної латуні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alchemical Brass Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213207Z" creationid="olexandr" creationdate="20181018T213207Z">
+        <seg>Шматок алхімічної латуні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alchemical Construct</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T152230Z" creationid="olexandr" creationdate="20181012T152230Z">
         <seg>Алхімічний конструкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alchemical Metallurgy</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221753Z" creationid="olexandr" creationdate="20181018T221753Z">
+        <seg>Алхімічна металургія</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ancient Stone</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214724Z" creationid="olexandr" creationdate="20181018T214724Z">
+        <seg>Ветхий камінь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Angry Zombie</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T210310Z" creationid="olexandr" creationdate="20181011T210310Z">
@@ -282,6 +322,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T151339Z" creationid="olexandr" creationdate="20181012T151339Z">
         <seg>Затаєний п'єдестал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arcane Stone</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214654Z" creationid="olexandr" creationdate="20181018T214654Z">
+        <seg>Затаєний камінь</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As long as they are fed vis they will continue to grow and even spread.&lt;BR&gt;Once the aura dips low enough the energy once again dissipates out of the crystals, replenishing the aura and causing the crystals to crumble.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220913Z" creationid="olexandr" creationdate="20181018T220913Z">
+        <seg>Доки вони живляться енергією, вони продовжують рости на поширюватись.&lt;BR&gt;Як тільки рівень аури паже, вона почне звільнятися з кристалів, відновлюючи рівень аури та руйнуючи кристали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aspects of Essentia</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215453Z" creationid="olexandr" creationdate="20181018T215453Z">
+        <seg>Аспекти есенції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auromancy</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T202700Z" creationid="olexandr" creationdate="20180816T202700Z">
@@ -354,6 +418,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T150356Z" creationid="olexandr" creationdate="20181012T150356Z">
         <seg>Початкова вартість:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Biothaumic Mind</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214123Z" creationid="olexandr" creationdate="20181018T214123Z">
+        <seg>Біотаумічний розум</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,10 +534,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Brass</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214907Z" creationid="olexandr" creationdate="20181018T214907Z">
+        <seg>Латунь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brass Block</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T152308Z" creationid="olexandr" creationdate="20181012T152308Z">
         <seg>Латунний блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brass Plate</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213927Z" creationid="olexandr" creationdate="20181018T213927Z">
+        <seg>Латунна пластина</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Celestial Observation</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221533Z" creationid="olexandr" creationdate="20181018T221533Z">
+        <seg>Спостереження за небосхилом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Charge</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T212318Z" creationid="olexandr" creationdate="20181012T212318Z">
@@ -550,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chicken Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214144Z" creationid="olexandr" creationdate="20181018T214144Z">
+        <seg>Шматочок курки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cinnabar Ore</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T205916Z" creationid="olexandr" creationdate="20180816T205916Z">
         <seg>Кіновар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clay</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214922Z" creationid="olexandr" creationdate="20181018T214922Z">
+        <seg>Глина</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +682,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T204030Z" creationid="olexandr" creationdate="20180816T204030Z">
         <seg>Натисніть, аби відкрити, або залиште для подальшого торгу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clockwork Mind</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214043Z" creationid="olexandr" creationdate="20181018T214043Z">
+        <seg>Часовий розум</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copper Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213140Z" creationid="olexandr" creationdate="20181018T213033Z">
+        <seg>Шматок міді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cost Multiplier:</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T150404Z" creationid="olexandr" creationdate="20181012T150404Z">
@@ -682,6 +810,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T145353Z" creationid="olexandr" creationdate="20181012T145353Z">
         <seg>Тигель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Crystal Farming</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221518Z" creationid="olexandr" creationdate="20181018T221518Z">
+        <seg>Вирощування кристалів</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +898,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T212403Z" creationid="olexandr" creationdate="20181012T212403Z">
         <seg>Вправний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delving into the Eldritch</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221654Z" creationid="olexandr" creationdate="20181018T221654Z">
+        <seg>Заглиблення у надприродне</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enchanted Fabric</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214028Z" creationid="olexandr" creationdate="20181018T214028Z">
+        <seg>Зачарована тканина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Energy Orb</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T161834Z" creationid="olexandr" creationdate="20181012T161834Z">
@@ -874,6 +1026,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T210126Z" creationid="olexandr" creationdate="20180816T210126Z">
         <seg>Кристал ентропії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Essentia Filter</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213539Z" creationid="olexandr" creationdate="20181018T213539Z">
+        <seg>Фільтр есенції</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +1130,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T064138Z" creationid="olexandr" creationdate="20181014T064138Z">
         <seg>Перші кроки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fish Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214215Z" creationid="olexandr" creationdate="20181018T214215Z">
+        <seg>Шматочок риби</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glass Phial</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214334Z" creationid="olexandr" creationdate="20181018T214334Z">
+        <seg>Скляний флакон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Golem</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T144136Z" creationid="olexandr" creationdate="20181012T144136Z">
@@ -1154,6 +1330,30 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T210740Z" creationid="olexandr" creationdate="20180816T210734Z">
         <seg>Колода величного дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Greatwood Planks</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214604Z" creationid="olexandr" creationdate="20181018T214604Z">
+        <seg>Дошки з величного дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Greatwood Sapling</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214532Z" creationid="olexandr" creationdate="20181018T214532Z">
+        <seg>Саджанець величного дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Greatwood Stairs</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214625Z" creationid="olexandr" creationdate="20181018T214625Z">
+        <seg>Сходи з величного дерева</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1446,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I should make a note of all those I come across.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220243Z" creationid="olexandr" creationdate="20181018T220243Z">
+        <seg>Я повинен занотовувати усі, які мені будуть траплятися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I should study those I find.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221452Z" creationid="olexandr" creationdate="20181018T221452Z">
+        <seg>Я повинен вивчати всі, які знаходжу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ice, Frost, Cold</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T214818Z" creationid="olexandr" creationdate="20181011T214818Z">
@@ -1266,6 +1482,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T205807Z" creationid="olexandr" creationdate="20180816T203550Z">
         <seg>Люмінесцентна рідкість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In effect, they are natural, or in this case, supernatural vis batteries.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220945Z" creationid="olexandr" creationdate="20181018T220945Z">
+        <seg>За ефектом, це природні, чи в даному випадку, надприродні віс батареї.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,10 +1542,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Iron Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213145Z" creationid="olexandr" creationdate="20181018T213011Z">
+        <seg>Шматок заліза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iron Plate</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213931Z" creationid="olexandr" creationdate="20181018T213931Z">
+        <seg>Залізна пластина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can even curse the target with a streak of bad luck.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T143529Z" creationid="olexandr" creationdate="20181012T143529Z">
         <seg>Може проклясти навіть ціль із смугою невдач.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a matter of all or none.&lt;BR&gt;Vis crystals growing in tainted areas may become tainted as well.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221345Z" creationid="olexandr" creationdate="20181018T221345Z">
+        <seg>Або все разом, або нічого.&lt;BR&gt;Віс кристали, які ростуть в місцевості яка вражена поганю також можуть бути вражені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1602,38 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T070127Z" creationid="olexandr" creationdate="20181014T070121Z">
         <seg>Він дуже схожий на звичайний верстак і навіть можна використовувати його як звичайний, от тільки він має декілька ключових відмінностей.&lt;BR&gt;По-перше, більшість затаєних рецептів будуть потребувати спеціальні Віс-кристали, які мені траплялися раніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Items that need to be crafted</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215224Z" creationid="olexandr" creationdate="20181018T215224Z">
+        <seg>Предмети, які необхідно скласти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Knowledge Totals</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215328Z" creationid="olexandr" creationdate="20181018T215328Z">
+        <seg>Загальні знання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Knowledge that must be used</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215259Z" creationid="olexandr" creationdate="20181018T215259Z">
+        <seg>Необхідні знання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lead Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213125Z" creationid="olexandr" creationdate="20181018T213102Z">
+        <seg>Шматок свинцю</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Magic Tallow</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213749Z" creationid="olexandr" creationdate="20181018T213749Z">
+        <seg>Магічний жир</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maybe it is time to stop.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T161345Z" creationid="olexandr" creationdate="20181012T161345Z">
@@ -1606,6 +1894,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Metal</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215510Z" creationid="olexandr" creationdate="20181018T215510Z">
+        <seg>Метал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Metal Purification</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221836Z" creationid="olexandr" creationdate="20181018T221836Z">
+        <seg>Очищення металів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mighty</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T162119Z" creationid="olexandr" creationdate="20181012T162119Z">
@@ -1618,6 +1922,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T214007Z" creationid="olexandr" creationdate="20181011T214007Z">
         <seg>Слабкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mirrored Glass</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213858Z" creationid="olexandr" creationdate="20181018T213858Z">
+        <seg>Дзеркальне скло</seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,10 +1966,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Morphic Resonator</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213640Z" creationid="olexandr" creationdate="20181018T213640Z">
+        <seg>Морфний резонатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mostly Harmless</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T213945Z" creationid="olexandr" creationdate="20181011T213945Z">
         <seg>Практично безпечні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mutton Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214232Z" creationid="olexandr" creationdate="20181018T214232Z">
+        <seg>Шматочок баранини</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ores</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215647Z" creationid="olexandr" creationdate="20181018T215647Z">
+        <seg>Руди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pech Forager</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T134346Z" creationid="olexandr" creationdate="20181012T134346Z">
@@ -1826,6 +2162,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T071020Z" creationid="olexandr" creationdate="20181014T071020Z">
         <seg>Крізь лінзу Таумометра мені відкрився світ сповнений магії, енергії Всі, як її називає книга.&lt;BR&gt;По суті  ця енергія є океаном магії, яка має свої течії, але також пронизує все навкруги, як живе так і неживе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Phial of %s Essentia</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214358Z" creationid="olexandr" creationdate="20181018T214358Z">
+        <seg>Флакон із есенцією: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1870,6 +2214,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plants</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215640Z" creationid="olexandr" creationdate="20181018T215640Z">
+        <seg>Рослини</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pork Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214210Z" creationid="olexandr" creationdate="20181018T214210Z">
+        <seg>Шматочок свинини</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T144735Z" creationid="olexandr" creationdate="20181012T144735Z">
@@ -1890,6 +2250,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T161715Z" creationid="olexandr" creationdate="20181012T161715Z">
         <seg>Первісна стріла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Primal Aspect</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215447Z" creationid="olexandr" creationdate="20181018T215447Z">
+        <seg>Первісний аспект</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quartz Sliver</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213231Z" creationid="olexandr" creationdate="20181018T213231Z">
+        <seg>Уламок кварцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quicksilver</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T205557Z" creationid="olexandr" creationdate="20180816T205557Z">
@@ -1990,10 +2366,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quicksilver Drop</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213108Z" creationid="olexandr" creationdate="20181018T213108Z">
+        <seg>Крапля ртуті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quite nasty and probably devastating if combined with other effects.&lt;BR&gt;Even if it misses the curse will leave a lasting mark on the world in the form of a corrupting field of energy.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T143852Z" creationid="olexandr" creationdate="20181012T143852Z">
         <seg>Дуже неприємний, і досить руйнівний ефект якщо поєднати із іншими.&lt;BR&gt;Навіть не діставшись цілі, ефект лишає після себе слід у вигляді поля енергії, що розкладається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rabbit Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214219Z" creationid="olexandr" creationdate="20181018T214219Z">
+        <seg>Шматочок кролика</seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Silver Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213132Z" creationid="olexandr" creationdate="20181018T213045Z">
+        <seg>Шматок срібла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Silverwood Leaves</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T210831Z" creationid="olexandr" creationdate="20180816T210831Z">
@@ -2258,6 +2658,30 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T210739Z" creationid="olexandr" creationdate="20180816T210739Z">
         <seg>Колода срібного дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silverwood Planks</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214612Z" creationid="olexandr" creationdate="20181018T214612Z">
+        <seg>Дошки з срібного дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silverwood Sapling</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214539Z" creationid="olexandr" creationdate="20181018T214539Z">
+        <seg>Саджанець срібного дерева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silverwood Stairs</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214631Z" creationid="olexandr" creationdate="20181018T214631Z">
+        <seg>Сходи з срібного дерева</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,10 +3030,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thaumium</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214931Z" creationid="olexandr" creationdate="20181018T214931Z">
+        <seg>Тауміум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thaumium Block</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T152218Z" creationid="olexandr" creationdate="20181012T152218Z">
         <seg>Блок тауміума</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thaumium Ingot</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212848Z" creationid="olexandr" creationdate="20181018T212848Z">
+        <seg>Злиток тауміума</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thaumium Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213117Z" creationid="olexandr" creationdate="20181018T213117Z">
+        <seg>Шматок тауміума</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thaumium Plate</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213944Z" creationid="olexandr" creationdate="20181018T213944Z">
+        <seg>Тауміумна пластина</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +3166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are many unique ores and mineable blocks that are useful to a Thaumaturge.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220036Z" creationid="olexandr" creationdate="20181018T215955Z">
+        <seg>Існує багато унікальних руд та блоків, які будуть корисними для Таумутурга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many unique plants that are useful to a Thaumaturge.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221431Z" creationid="olexandr" creationdate="20181018T221431Z">
+        <seg>Існує багато унікальних рослин, які знадобляться для Таумутурга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are two main types of knowledge: Observations and Theories.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T084932Z" creationid="olexandr" creationdate="20181014T084932Z">
@@ -2750,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They will never crumble away completely and at least a small remnant of the crystal will remain.&lt;BR&gt;These crystals can be harvested for elemental shards that have many uses in Thaumaturgy.&lt;IMG&gt;thaumcraft:textures/research/research3.png:0:104:96:16:1&lt;/IMG&gt;You have yet to discover a method to extract individual crystals without destroying the entire cluster.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T221240Z" creationid="olexandr" creationdate="20181018T221240Z">
+        <seg>Кристали ніколи не руйнуються остаточно та лишається затравка для відновлення.&lt;BR&gt;Ці кристали можна добути та отримати уламки стихії яким у Тауматурга завжди знайдеться застосування.&lt;IMG&gt;thaumcraft:textures/research/research3.png:0:104:96:16:1&lt;/IMG&gt;Ви ще не винайшли метод видобування окремих кристалів без руйнації всього кластеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They're everywhere!</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T161058Z" creationid="olexandr" creationdate="20181012T161058Z">
@@ -2782,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tin Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213136Z" creationid="olexandr" creationdate="20181018T213040Z">
+        <seg>Шматок олова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To understand this you need to study %1$s.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T213252Z" creationid="olexandr" creationdate="20181011T213252Z">
@@ -2802,6 +3290,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T144943Z" creationid="olexandr" creationdate="20181012T144943Z">
         <seg>Розгалуження траєкторії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Triple Meat Treat</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214313Z" creationid="olexandr" creationdate="20181018T214313Z">
+        <seg>Смаколик потрійного мʼяса</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown Aspect</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215500Z" creationid="olexandr" creationdate="20181018T215500Z">
+        <seg>Невідомий аспект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unknown item</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T212251Z" creationid="olexandr" creationdate="20181011T212251Z">
@@ -2882,6 +3386,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T145914Z" creationid="olexandr" creationdate="20181012T145914Z">
         <seg>Верх / Низ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Silk Touch</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215104Z" creationid="olexandr" creationdate="20181018T215104Z">
+        <seg>Використовувати шовковий дотик</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,6 +3454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vis Resonator</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214130Z" creationid="olexandr" creationdate="20181018T214130Z">
+        <seg>Віс-резонатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Vis charge:</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T214403Z" creationid="olexandr" creationdate="20181011T214403Z">
@@ -2974,6 +3494,70 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Visit the highest peaks you can find.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215610Z" creationid="olexandr" creationdate="20181018T215610Z">
+        <seg>Відвідайте найвищу вершину світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visit the lowest depths of the world.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215556Z" creationid="olexandr" creationdate="20181018T215556Z">
+        <seg>Відвідайте найглибшу частину світу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Void Metal</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214944Z" creationid="olexandr" creationdate="20181018T214944Z">
+        <seg>Пустотний метал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Void Metal Block</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214807Z" creationid="olexandr" creationdate="20181018T214807Z">
+        <seg>Блок пустотного металу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Void Metal Ingot</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212909Z" creationid="olexandr" creationdate="20181018T212909Z">
+        <seg>Злиток пустотного металу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Void Metal Nugget</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213157Z" creationid="olexandr" creationdate="20181018T213157Z">
+        <seg>Шматок пустотного металу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Void Metal Plate</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214001Z" creationid="olexandr" creationdate="20181018T214001Z">
+        <seg>Пластина пустотного металу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Void Seed</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T213803Z" creationid="olexandr" creationdate="20181018T213803Z">
+        <seg>Пустотне зерно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warded</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T162131Z" creationid="olexandr" creationdate="20181012T162131Z">
@@ -2994,6 +3578,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T212309Z" creationid="olexandr" creationdate="20181012T212309Z">
         <seg>Викривлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warping level: %n</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215321Z" creationid="olexandr" creationdate="20181018T215321Z">
+        <seg>Рівень викривлення: %n</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,10 +3822,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have already studied that today.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212354Z" creationid="olexandr" creationdate="20181018T212354Z">
+        <seg>Ви вже вивчали це сьогодні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have felt the touch of flame.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T135957Z" creationid="olexandr" creationdate="20181012T135957Z">
         <seg>Ви відчули дотик полум'я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have gained some knowledge</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215432Z" creationid="olexandr" creationdate="20181018T215432Z">
+        <seg>Ви отримали певні знання</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,10 +3990,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Zombie Brain</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214240Z" creationid="olexandr" creationdate="20181018T214240Z">
+        <seg>Мозок зомбі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>available</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215036Z" creationid="olexandr" creationdate="20181018T215036Z">
+        <seg>доступно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>discount</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T214313Z" creationid="olexandr" creationdate="20181011T214313Z">
         <seg>знижка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>vis</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T215024Z" creationid="olexandr" creationdate="20181018T215024Z">
+        <seg>віс</seg>
       </tuv>
     </tu>
     <tu>
@@ -3546,6 +4178,30 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T213533Z" creationid="olexandr" creationdate="20181011T213533Z">
         <seg>§oДоповнення %1$s§r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>§oAmber Ore§r&lt;IMG&gt;thaumcraft:textures/research/research3.png:0:128:128:128:.6&lt;/IMG&gt;This ore is found near the surface and when mined drops chunks of amber.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220326Z" creationid="olexandr" creationdate="20181018T220326Z">
+        <seg>§oЯнтарна руда§r&lt;IMG&gt;thaumcraft:textures/research/research3.png:0:128:128:128:.6&lt;/IMG&gt;Ця руда трапляється на поверхні та містить вкраплення янтарю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>§oCinnabar§r&lt;IMG&gt;thaumcraft:textures/research/research3.png:128:128:128:128:.6&lt;/IMG&gt;This reddish ore is found deep underground and when smelted produces quicksilver.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220449Z" creationid="olexandr" creationdate="20181018T220449Z">
+        <seg>§oКіновар§r&lt;IMG&gt;thaumcraft:textures/research/research3.png:128:128:128:128:.6&lt;/IMG&gt;Ця червонувата руда трапляється глибоко під землею, при плавці дає ртуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>§oVis Crystals§r&lt;IMG&gt;thaumcraft:textures/research/research4.png:0:0:128:128:.6&lt;/IMG&gt;On occasion there is so much primal energy in the aura that it will settle into rock from which vis infused crystals will grow.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220629Z" creationid="olexandr" creationdate="20181018T220629Z">
+        <seg>§oВіс кристали§r&lt;IMG&gt;thaumcraft:textures/research/research4.png:0:0:128:128:.6&lt;/IMG&gt;Іноді в аурі накопичується стільки первинної енергії, що вона осідає на камінні та починає концентруватися в кристали.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
