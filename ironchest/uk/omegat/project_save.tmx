@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.5" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>"DirtChest 9000 is kind to the environment.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191457Z" creationid="olexandr" creationdate="20181018T191457Z">
+        <seg>"Замлесхрон 9000 є екологічно чистим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Usage: simply insert the stack of dirt of your choice into the highly receptive slot and enjoy the great convenience of having that dirt available to you, any time you pass by this chest!"</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191408Z" creationid="olexandr" creationdate="20181018T191408Z">
+        <seg>"Використання: просто покладіть на обраний стак землі до високопродуктивної комірки та насолоджуйтесь зручністю доступу до землі кожного разу, як ви проходите повз скриню!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Warranty: This product has no warranty of any kind.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191446Z" creationid="olexandr" creationdate="20181018T191446Z">
+        <seg>"Гарантія: Цей продукт надається без жодної гарантії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future!</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191435Z" creationid="olexandr" creationdate="20181018T191435Z">
+        <seg>"Сподіваємось Вам сподобалась дана інструкція, та будете і надалі користуватися нашими продуктами!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Welcome to your new DirtChest 9000!</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191357Z" creationid="olexandr" creationdate="20181018T191357Z">
+        <seg>"Вітайте новий Замлесхрон 9000!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203158Z" creationid="olexandr" creationdate="20181018T203158Z">
+        <seg>Чорна залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212213Z" creationid="olexandr" creationdate="20181018T212213Z">
+        <seg>Синя залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203128Z" creationid="olexandr" creationdate="20181018T203128Z">
+        <seg>Синя залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212221Z" creationid="olexandr" creationdate="20181018T212221Z">
+        <seg>Коричнева золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203139Z" creationid="olexandr" creationdate="20181018T203139Z">
+        <seg>Коричнева залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copper Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191124Z" creationid="olexandr" creationdate="20181018T191124Z">
+        <seg>Мідна скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copper to Iron Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191241Z" creationid="olexandr" creationdate="20181018T191241Z">
+        <seg>Доробка мідної скрині до залізної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copper to Silver Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191220Z" creationid="olexandr" creationdate="20181018T191220Z">
+        <seg>Доробка мідної скрині до срібної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Crystal Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191134Z" creationid="olexandr" creationdate="20181018T191134Z">
+        <seg>Кришталева скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyan Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212155Z" creationid="olexandr" creationdate="20181018T212155Z">
+        <seg>Блакитна золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyan Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203113Z" creationid="olexandr" creationdate="20181018T203113Z">
+        <seg>Блакитна залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diamond Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191118Z" creationid="olexandr" creationdate="20181018T191118Z">
+        <seg>Діамантова скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diamond to Crystal Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191251Z" creationid="olexandr" creationdate="20181018T191251Z">
+        <seg>Доробка діамантової скрині до кришталевої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diamond to Obsidian Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191336Z" creationid="olexandr" creationdate="20181018T191336Z">
+        <seg>Доробка діамантової скрині до обсидіанової</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DirtChest 9000!</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191145Z" creationid="olexandr" creationdate="20181018T191145Z">
+        <seg>Замлесхрон 9000!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gold Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191108Z" creationid="olexandr" creationdate="20181018T191108Z">
+        <seg>Золота скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gold to Diamond Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191209Z" creationid="olexandr" creationdate="20181018T191209Z">
+        <seg>Доробка золотої скрині до діамантової</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gray Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212136Z" creationid="olexandr" creationdate="20181018T212136Z">
+        <seg>Сіра золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gray Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203031Z" creationid="olexandr" creationdate="20181018T203031Z">
+        <seg>Сіра залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203145Z" creationid="olexandr" creationdate="20181018T203145Z">
+        <seg>Зелена залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to use your DirtChest 9000!</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191343Z" creationid="olexandr" creationdate="20181018T191343Z">
+        <seg>Посібник до Замлесхрону 9000!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iron Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191103Z" creationid="olexandr" creationdate="20181018T191103Z">
+        <seg>Залізна скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iron Chests</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191746Z" creationid="olexandr" creationdate="20181018T191746Z">
+        <seg>Залізні скрині</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Iron to Gold Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191158Z" creationid="olexandr" creationdate="20181018T191158Z">
+        <seg>Доробка залізної скрині до золотої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kind regards, The DirtChest 9000 manual writers incorporated."</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191438Z" creationid="olexandr" creationdate="20181018T191438Z">
+        <seg>З повагою, автори посібника Замлесхрону 9000."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light Blue Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203248Z" creationid="olexandr" creationdate="20181018T203248Z">
+        <seg>Світло-синя залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light Blue Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202951Z" creationid="olexandr" creationdate="20181018T202951Z">
+        <seg>Світло-синя залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203259Z" creationid="olexandr" creationdate="20181018T203259Z">
+        <seg>Лаймова золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203015Z" creationid="olexandr" creationdate="20181018T203015Z">
+        <seg>Лаймова залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magenta Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203240Z" creationid="olexandr" creationdate="20181018T203240Z">
+        <seg>Фіолетова золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magenta Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202932Z" creationid="olexandr" creationdate="20181018T202932Z">
+        <seg>Фіолетова залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Obsidian Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191139Z" creationid="olexandr" creationdate="20181018T191139Z">
+        <seg>Обсидіанова скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orange Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203233Z" creationid="olexandr" creationdate="20181018T203233Z">
+        <seg>Руда золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orange Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202918Z" creationid="olexandr" creationdate="20181018T202918Z">
+        <seg>Руда залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pink Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203304Z" creationid="olexandr" creationdate="20181018T203304Z">
+        <seg>Рожева золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pink Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203026Z" creationid="olexandr" creationdate="20181018T203026Z">
+        <seg>Рожева залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191515Z" creationid="olexandr" creationdate="20181018T191515Z">
+        <seg>Будь ласка, утилізуйте цей посібник відповідально, а не як зазвичай, кидаючи у лаву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purple Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212206Z" creationid="olexandr" creationdate="20181018T212206Z">
+        <seg>Пурпурна золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purple Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203123Z" creationid="olexandr" creationdate="20181018T203123Z">
+        <seg>Пурпурна залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203151Z" creationid="olexandr" creationdate="20181018T203151Z">
+        <seg>Червона залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Chest</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191128Z" creationid="olexandr" creationdate="20181018T191128Z">
+        <seg>Срібна скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212148Z" creationid="olexandr" creationdate="20181018T212148Z">
+        <seg>Світло-сіра золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203058Z" creationid="olexandr" creationdate="20181018T203058Z">
+        <seg>Світло-сіра залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver to Gold Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191230Z" creationid="olexandr" creationdate="20181018T191230Z">
+        <seg>Доробка срібної скрині до золотої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We hope you will enjoy many happy years of storing your stack of dirt in our storage utility."</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191400Z" creationid="olexandr" creationdate="20181018T191400Z">
+        <seg>Ми сподіваємось, що ви будете тримати довгі роки свою землю у нашому пристрої для зберігання."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We would be very sad."</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191529Z" creationid="olexandr" creationdate="20181018T191529Z">
+        <seg>В іншому випадку ми засмутимося."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203228Z" creationid="olexandr" creationdate="20181018T203228Z">
+        <seg>Біла золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202910Z" creationid="olexandr" creationdate="20181018T202910Z">
+        <seg>Біла залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wood to Copper Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191327Z" creationid="olexandr" creationdate="20181018T191327Z">
+        <seg>Доробка деревʼяної скрині до мідної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wood to Iron Chest Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191259Z" creationid="olexandr" creationdate="20181018T191259Z">
+        <seg>Доробка деревʼяної скрині до залізної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yellow Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203252Z" creationid="olexandr" creationdate="20181018T203252Z">
+        <seg>Жовта золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yellow Iron Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202957Z" creationid="olexandr" creationdate="20181018T202957Z">
+        <seg>Жовта залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your dirt may not be stored, it may slowly leech into the environment, or alternatively, it may not do anything at all."</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191449Z" creationid="olexandr" creationdate="20181018T191449Z">
+        <seg>Ваша земля може зберігатися, може повільно просочуватися назовні, чи навпаки, нічого не трапиться."</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
