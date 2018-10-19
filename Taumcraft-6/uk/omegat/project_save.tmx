@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basic Auromancy</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T173110Z" creationid="olexandr" creationdate="20181019T173110Z">
+        <seg>Основи Ауромантії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Biothaumic Mind</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214123Z" creationid="olexandr" creationdate="20181018T214123Z">
@@ -3486,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vishroom</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T173227Z" creationid="olexandr" creationdate="20181019T173227Z">
+        <seg>Вісмор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visit a hellish place.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T140035Z" creationid="olexandr" creationdate="20181012T140035Z">
@@ -4202,6 +4218,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T220629Z" creationid="olexandr" creationdate="20181018T220629Z">
         <seg>§oВіс кристали§r&lt;IMG&gt;thaumcraft:textures/research/research4.png:0:0:128:128:.6&lt;/IMG&gt;Іноді в аурі накопичується стільки первинної енергії, що вона осідає на камінні та починає концентруватися в кристали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>§oVishroom§r&lt;IMG&gt;thaumcraft:textures/research/research5.png:0:128:128:128:.6&lt;/IMG&gt;This strange, glowing mushroom can only be found growing in magical forests.&lt;BR&gt;They have hallucinogenic properties so one must be careful not to approach too closely.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T173741Z" creationid="olexandr" creationdate="20181019T173741Z">
+        <seg>§oВисмор§r&lt;IMG&gt;thaumcraft:textures/research/research5.png:0:128:128:128:.6&lt;/IMG&gt;Ці дивні мерехтливі гриби можна знайти лише в магічних лісах.&lt;BR&gt;Він має галюциногенні властивості, тому не варто знаходитися поруч з ним.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
