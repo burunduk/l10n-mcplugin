@@ -40,3 +40,6 @@ Theories	Теорія
 Observations	Спостереження
 Alchemy	Алхімія
 Thaumaturge	Тауматург
+Enchantment	Зачаровування
+Infusion	Вливання	процес наповнення енергією
+Bellows	Міха	Роздувати багаття
