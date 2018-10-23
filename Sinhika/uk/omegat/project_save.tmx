@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.5" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+Damage</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090004Z" creationid="olexandr" creationdate="20180629T090004Z">
+        <seg>+Шкода</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+Efficiency</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T085937Z" creationid="olexandr" creationdate="20180629T085937Z">
+        <seg>+Ефективність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+Flame</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090001Z" creationid="olexandr" creationdate="20180629T090001Z">
+        <seg>+Сила вогню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+Knockback</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T085950Z" creationid="olexandr" creationdate="20180629T085950Z">
+        <seg>+Відкидання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>+Zoom</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T085944Z" creationid="olexandr" creationdate="20180629T085944Z">
+        <seg>+Приближення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074059Z" creationid="olexandr" creationdate="20180629T074059Z">
+        <seg>Адамантова сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075144Z" creationid="olexandr" creationdate="20180629T075144Z">
+        <seg>Адамантові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Boots</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074513Z" creationid="olexandr" creationdate="20180629T074513Z">
+        <seg>Адамантові чоботи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075115Z" creationid="olexandr" creationdate="20180629T075115Z">
+        <seg>Сходи з адамантової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075048Z" creationid="olexandr" creationdate="20180629T075048Z">
+        <seg>Адамантова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Chestplate</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074315Z" creationid="olexandr" creationdate="20180629T074315Z">
+        <seg>Адамантовий нагрудник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075203Z" creationid="olexandr" creationdate="20180629T075203Z">
+        <seg>Адамантові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Helmet</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074336Z" creationid="olexandr" creationdate="20180629T074336Z">
+        <seg>Адамантовий шолом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074109Z" creationid="olexandr" creationdate="20180629T074109Z">
+        <seg>Адамантова мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073633Z" creationid="olexandr" creationdate="20180629T073633Z">
+        <seg>Адамантовий зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Leggings</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074423Z" creationid="olexandr" creationdate="20180629T074423Z">
+        <seg>Адамантові наголінники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073501Z" creationid="olexandr" creationdate="20180629T073501Z">
+        <seg>Адамантова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074052Z" creationid="olexandr" creationdate="20180629T074052Z">
+        <seg>Адамантове кайло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Shears</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074217Z" creationid="olexandr" creationdate="20180629T074217Z">
+        <seg>Адамантові ножиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074102Z" creationid="olexandr" creationdate="20180629T074102Z">
+        <seg>Адамантова лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adamantium Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074105Z" creationid="olexandr" creationdate="20180629T074105Z">
+        <seg>Адамантовий меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argonite Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091919Z" creationid="olexandr" creationdate="20180629T091919Z">
+        <seg>Аргонітові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argonite Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091929Z" creationid="olexandr" creationdate="20180629T091929Z">
+        <seg>Сходи з аргонітової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argonite Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091936Z" creationid="olexandr" creationdate="20180629T091936Z">
+        <seg>Аргонітова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argonite Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091915Z" creationid="olexandr" creationdate="20180629T091915Z">
+        <seg>Аргонітові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argonite Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092520Z" creationid="olexandr" creationdate="20180629T092520Z">
+        <seg>Аргонітова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ashstone Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091825Z" creationid="olexandr" creationdate="20180629T091825Z">
+        <seg>вулканічні грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ashstone Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091757Z" creationid="olexandr" creationdate="20180629T091757Z">
+        <seg>Сходи з вулканічної цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ashstone Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091710Z" creationid="olexandr" creationdate="20180629T091710Z">
+        <seg>Вулканічна цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ashstone Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091838Z" creationid="olexandr" creationdate="20180629T091838Z">
+        <seg>вулканічні двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ashstone Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092500Z" creationid="olexandr" creationdate="20180629T092500Z">
+        <seg>Вулканічна руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because normal shears obviously last too long</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180713T142704Z" creationid="olexandr" creationdate="20180713T142704Z">
+        <seg>Оскільки звичайними ножицями це забере багато часу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begin your SimpleOres adventure by mining copper ore.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090545Z" creationid="olexandr" creationdate="20180629T090545Z">
+        <seg>Почни свої пригоди у SimpleOres із пошуку мідної руди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block of Adamantium</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073505Z" creationid="olexandr" creationdate="20180629T073505Z">
+        <seg>Блок адамантію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block of Copper</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073326Z" creationid="olexandr" creationdate="20180629T073326Z">
+        <seg>Блок міді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block of Mythril</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073350Z" creationid="olexandr" creationdate="20180629T073350Z">
+        <seg>Блок міфрилу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block of Onyx</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073541Z" creationid="olexandr" creationdate="20180629T073541Z">
+        <seg>Блок оніксу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block of Tin</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073337Z" creationid="olexandr" creationdate="20180629T073337Z">
+        <seg>Блок олова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074917Z" creationid="olexandr" creationdate="20180629T074917Z">
+        <seg>Блоки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084654Z" creationid="olexandr" creationdate="20181020T084638Z">
+        <seg>Бронзова сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075421Z" creationid="olexandr" creationdate="20180629T075421Z">
+        <seg>Бронзові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084516Z" creationid="olexandr" creationdate="20181020T084516Z">
+        <seg>Бронзовий блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075355Z" creationid="olexandr" creationdate="20180629T075355Z">
+        <seg>Сходи з бронзової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075238Z" creationid="olexandr" creationdate="20180629T075238Z">
+        <seg>Бронзова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075433Z" creationid="olexandr" creationdate="20180629T075433Z">
+        <seg>Бронзові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084706Z" creationid="olexandr" creationdate="20181020T084706Z">
+        <seg>Бронзова мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092235Z" creationid="olexandr" creationdate="20180629T092235Z">
+        <seg>Бронзовий зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084634Z" creationid="olexandr" creationdate="20181020T084634Z">
+        <seg>Бронзова кірка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084643Z" creationid="olexandr" creationdate="20181020T084643Z">
+        <seg>Бронзова лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bronze Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084659Z" creationid="olexandr" creationdate="20181020T084659Z">
+        <seg>Бронзовий меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caution: Don't Use On Lava</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090751Z" creationid="olexandr" creationdate="20180629T090751Z">
+        <seg>Увага: Не використовувати із лавою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Construct a Nether Furnace!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092639Z" creationid="olexandr" creationdate="20180629T092639Z">
+        <seg>Сконструювати Пекельну Піч!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Containers</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T081839Z" creationid="olexandr" creationdate="20180908T081839Z">
+        <seg>Контейнери</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073835Z" creationid="olexandr" creationdate="20180629T073835Z">
+        <seg>Мідна сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075133Z" creationid="olexandr" creationdate="20180629T075133Z">
+        <seg>Мідні грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Boots</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074459Z" creationid="olexandr" creationdate="20180629T074459Z">
+        <seg>Мідні чоботи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075058Z" creationid="olexandr" creationdate="20180629T075058Z">
+        <seg>Сходи з мідної цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075032Z" creationid="olexandr" creationdate="20180629T075032Z">
+        <seg>Мідна цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Bucket</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073651Z" creationid="olexandr" creationdate="20180629T073651Z">
+        <seg>Мідне відро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Bucket of Water</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073703Z" creationid="olexandr" creationdate="20180629T073703Z">
+        <seg>Мідне відро води</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Chestplate</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074250Z" creationid="olexandr" creationdate="20180629T074250Z">
+        <seg>Мідний нагрудник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075207Z" creationid="olexandr" creationdate="20180629T075207Z">
+        <seg>Мідні двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Helmet</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074234Z" creationid="olexandr" creationdate="20180629T074234Z">
+        <seg>Мідний шолом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073942Z" creationid="olexandr" creationdate="20180629T073942Z">
+        <seg>Мідна мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073614Z" creationid="olexandr" creationdate="20180629T073552Z">
+        <seg>Мідний зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Leggings</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074410Z" creationid="olexandr" creationdate="20180629T074410Z">
+        <seg>Мідні наголінники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180711T162426Z" creationid="olexandr" creationdate="20180629T073320Z">
+        <seg>Мідна руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073827Z" creationid="olexandr" creationdate="20180629T073827Z">
+        <seg>Мідне кайло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Shears</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074157Z" creationid="olexandr" creationdate="20180629T074157Z">
+        <seg>Мідні ножиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073917Z" creationid="olexandr" creationdate="20180629T073917Z">
+        <seg>Мідна лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copper Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073921Z" creationid="olexandr" creationdate="20180629T073921Z">
+        <seg>Мідний меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft a mythril axe for a significant improvement over iron.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091414Z" creationid="olexandr" creationdate="20180629T091414Z">
+        <seg>Зберіть міфриловий меч, який ліпший за залізний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft an onyx sword.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090149Z" creationid="olexandr" creationdate="20180629T090149Z">
+        <seg>Зберіть меч із оніксу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diamond Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075025Z" creationid="olexandr" creationdate="20180629T075025Z">
+        <seg>Сходи з діамантової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diamond Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074943Z" creationid="olexandr" creationdate="20180629T074943Z">
+        <seg>Діамантова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dig deep to mine some mythril Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090339Z" creationid="olexandr" creationdate="20180629T090339Z">
+        <seg>Капай глибше, аби добути трохи міфрилової руди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dig just as deep to mine adamantium ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090359Z" creationid="olexandr" creationdate="20180629T090359Z">
+        <seg>Капай ще трохи глибше, аби добути трохи адамантової руди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragonstone Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092055Z" creationid="olexandr" creationdate="20180629T092055Z">
+        <seg>Драконітові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragonstone Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092034Z" creationid="olexandr" creationdate="20180629T092034Z">
+        <seg>Сходи з драконіту цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragonstone Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092047Z" creationid="olexandr" creationdate="20180629T092014Z">
+        <seg>Драконітова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragonstone Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092102Z" creationid="olexandr" creationdate="20180629T092102Z">
+        <seg>Драконітові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragonstone Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092514Z" creationid="olexandr" creationdate="20180629T092514Z">
+        <seg>Драконітова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Endless Sheep Shearing</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T081152Z" creationid="olexandr" creationdate="20180908T081152Z">
+        <seg>Нескінченна стрижка овець</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, shears that don't break instantly!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T081233Z" creationid="olexandr" creationdate="20180908T081233Z">
+        <seg>Нарешті, ножиці які довго ще не зламаються!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding some onyx ore.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090410Z" creationid="olexandr" creationdate="20180629T090410Z">
+        <seg>Знайди трохи оніксової руди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firebug</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091046Z" creationid="olexandr" creationdate="20180629T091046Z">
+        <seg>Палій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forge a new bow with magical properties</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091236Z" creationid="olexandr" creationdate="20180629T091236Z">
+        <seg>Складіть новий лук із чарівними властивостями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fusion        Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092204Z" creationid="olexandr" creationdate="20180629T092204Z">
+        <seg>Плавильна   піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fusion Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092154Z" creationid="olexandr" creationdate="20180629T092154Z">
+        <seg>Плавильна піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091816Z" creationid="olexandr" creationdate="20180629T091816Z">
+        <seg>Фейритові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092445Z" creationid="olexandr" creationdate="20180629T092445Z">
+        <seg>Фейритовий блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091743Z" creationid="olexandr" creationdate="20180629T091743Z">
+        <seg>Сходи з фейритової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091629Z" creationid="olexandr" creationdate="20180629T091629Z">
+        <seg>Фейритова цегла Bricks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091843Z" creationid="olexandr" creationdate="20180629T091843Z">
+        <seg>Фейрітові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092540Z" creationid="olexandr" creationdate="20180629T092540Z">
+        <seg>Фейритовий зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fyrite Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092433Z" creationid="olexandr" creationdate="20180629T092433Z">
+        <seg>Фейритова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075018Z" creationid="olexandr" creationdate="20180629T075018Z">
+        <seg>Сходи з золотої цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074937Z" creationid="olexandr" creationdate="20180629T074937Z">
+        <seg>Золота цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good luck!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090235Z" creationid="olexandr" creationdate="20180629T090235Z">
+        <seg>Щасти!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green is Good</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090641Z" creationid="olexandr" creationdate="20180629T090306Z">
+        <seg>Зелений — це добре</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I guess it's better than Stone...</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090733Z" creationid="olexandr" creationdate="20180629T090733Z">
+        <seg>Я гадаю це краще за камінь…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illumenite Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091830Z" creationid="olexandr" creationdate="20180629T091830Z">
+        <seg>Ілюменітові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illumenite Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091804Z" creationid="olexandr" creationdate="20180629T091804Z">
+        <seg>Сходи з ілюменітової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illumenite Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091729Z" creationid="olexandr" creationdate="20180629T091729Z">
+        <seg>Ілюменітова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illumenite Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091848Z" creationid="olexandr" creationdate="20180629T091848Z">
+        <seg>Ілюменітові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illumenite Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092507Z" creationid="olexandr" creationdate="20180629T092507Z">
+        <seg>Ілюменітова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075010Z" creationid="olexandr" creationdate="20180629T075010Z">
+        <seg>Сходи з залізної цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074933Z" creationid="olexandr" creationdate="20180629T074933Z">
+        <seg>Залізна цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075157Z" creationid="olexandr" creationdate="20180629T075157Z">
+        <seg>Предмети</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malachite Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091820Z" creationid="olexandr" creationdate="20180629T091820Z">
+        <seg>Малахітові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malachite Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092456Z" creationid="olexandr" creationdate="20180629T092456Z">
+        <seg>Малахітовий блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malachite Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091750Z" creationid="olexandr" creationdate="20180629T091750Z">
+        <seg>Сходи з малахітової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malachite Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091637Z" creationid="olexandr" creationdate="20180629T091637Z">
+        <seg>Малахітова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malachite Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091855Z" creationid="olexandr" creationdate="20180629T091855Z">
+        <seg>Малахітові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malachite Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092449Z" creationid="olexandr" creationdate="20180629T092449Z">
+        <seg>Малахітова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Messages</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075449Z" creationid="olexandr" creationdate="20180629T075449Z">
+        <seg>Повідомлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mine some tin ore.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090425Z" creationid="olexandr" creationdate="20180629T090425Z">
+        <seg>Накопай олов'яної руди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mystical Bow</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090206Z" creationid="olexandr" creationdate="20180629T090206Z">
+        <seg>Містичний лук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074033Z" creationid="olexandr" creationdate="20180629T074033Z">
+        <seg>Міфрилова сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075140Z" creationid="olexandr" creationdate="20180629T075140Z">
+        <seg>Міфрилові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Boots</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074509Z" creationid="olexandr" creationdate="20180629T074509Z">
+        <seg>Міфрилові чоботи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Bow</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074135Z" creationid="olexandr" creationdate="20180629T074135Z">
+        <seg>Міфриловий лук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075108Z" creationid="olexandr" creationdate="20180629T075108Z">
+        <seg>Сходи з міфрилової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075041Z" creationid="olexandr" creationdate="20180629T075041Z">
+        <seg>Міфрилова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Chestplate</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074310Z" creationid="olexandr" creationdate="20180629T074310Z">
+        <seg>Міфриловий нагрудник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075212Z" creationid="olexandr" creationdate="20180629T075212Z">
+        <seg>Міфрилові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074709Z" creationid="olexandr" creationdate="20180629T074709Z">
+        <seg>Міфрилова піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Helmet</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074344Z" creationid="olexandr" creationdate="20180629T074344Z">
+        <seg>Міфриловий шолом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074043Z" creationid="olexandr" creationdate="20180629T074043Z">
+        <seg>Міфрилова мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073627Z" creationid="olexandr" creationdate="20180629T073627Z">
+        <seg>Міфриловий зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Leggings</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074419Z" creationid="olexandr" creationdate="20180629T074419Z">
+        <seg>Міфрилові наголінники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073345Z" creationid="olexandr" creationdate="20180629T073345Z">
+        <seg>Міфрилова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074020Z" creationid="olexandr" creationdate="20180629T074020Z">
+        <seg>Міфрилове кайло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Rod</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073810Z" creationid="olexandr" creationdate="20180629T073810Z">
+        <seg>Міфриловий стержень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Shears</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074212Z" creationid="olexandr" creationdate="20180629T074212Z">
+        <seg>Міфрилові ножиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074036Z" creationid="olexandr" creationdate="20180629T074036Z">
+        <seg>Міфрилова лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mythril Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074040Z" creationid="olexandr" creationdate="20180629T074040Z">
+        <seg>Міфриловий меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neither Gold nor Iron</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090514Z" creationid="olexandr" creationdate="20180629T090514Z">
+        <seg>І не золото, і не залізо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nether Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092531Z" creationid="olexandr" creationdate="20180629T092531Z">
+        <seg>Пекельна піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ninja Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090704Z" creationid="olexandr" creationdate="20180629T090704Z">
+        <seg>Руда — ніндзя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Silver</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090430Z" creationid="olexandr" creationdate="20180629T090430Z">
+        <seg>Не срібло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now We're Talking</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091300Z" creationid="olexandr" creationdate="20180629T091300Z">
+        <seg>Тепер поговоримо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073635Z" creationid="olexandr" creationdate="20180629T073635Z">
+        <seg>Онікс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074119Z" creationid="olexandr" creationdate="20180629T074119Z">
+        <seg>Оніксова сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075151Z" creationid="olexandr" creationdate="20180629T075151Z">
+        <seg>Оніксові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Boots</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074516Z" creationid="olexandr" creationdate="20180629T074516Z">
+        <seg>Оніксові чоботи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Bow</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074140Z" creationid="olexandr" creationdate="20180629T074140Z">
+        <seg>Оніксовий лук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075120Z" creationid="olexandr" creationdate="20180629T075120Z">
+        <seg>Сходи з оніксової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075052Z" creationid="olexandr" creationdate="20180629T075052Z">
+        <seg>Оніксова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Chestplate</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074320Z" creationid="olexandr" creationdate="20180629T074320Z">
+        <seg>Оніксовий нагрудник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075221Z" creationid="olexandr" creationdate="20180629T075216Z">
+        <seg>Оніксові двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074714Z" creationid="olexandr" creationdate="20180629T074714Z">
+        <seg>Оніксова піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Helmet</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074331Z" creationid="olexandr" creationdate="20180629T074331Z">
+        <seg>Оніксовий шолом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074129Z" creationid="olexandr" creationdate="20180629T074129Z">
+        <seg>Оніксова мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Leggings</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074431Z" creationid="olexandr" creationdate="20180629T074431Z">
+        <seg>Оніксові наголінники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073537Z" creationid="olexandr" creationdate="20180629T073537Z">
+        <seg>Оніксова руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074116Z" creationid="olexandr" creationdate="20180629T074116Z">
+        <seg>Оніксове кайло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Rod</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073817Z" creationid="olexandr" creationdate="20180629T073817Z">
+        <seg>Оніксовий стержень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Shears</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074222Z" creationid="olexandr" creationdate="20180629T074222Z">
+        <seg>Оніксові ножиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074122Z" creationid="olexandr" creationdate="20180629T074122Z">
+        <seg>Оніксова лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Onyx Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074125Z" creationid="olexandr" creationdate="20180629T074125Z">
+        <seg>Оніксовий меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ooh, Pretty!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090634Z" creationid="olexandr" creationdate="20180629T090634Z">
+        <seg>Ух, яка краса!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other strings</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092417Z" creationid="olexandr" creationdate="20180629T092417Z">
+        <seg>Інші рядки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please update from §9http://bit.ly/SimpleOres</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074830Z" creationid="olexandr" creationdate="20180629T074830Z">
+        <seg>Будь ласка, оновіть з §9http://bit.ly/SimpleOres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save your Iron, make a bucket with Copper!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090826Z" creationid="olexandr" creationdate="20180629T090826Z">
+        <seg>Збережи залізо, зроби мідне відро!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scorch your enemies with this onyx bow straight from the Hells</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091142Z" creationid="olexandr" creationdate="20180629T091142Z">
+        <seg>Випалюй ворогів цим пекельним луком із оніксу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seems impractical, but give it a try</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091436Z" creationid="olexandr" creationdate="20180629T090901Z">
+        <seg>Виглядає непрактично, але спробуй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sheer, Absolute Ownage</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T081534Z" creationid="olexandr" creationdate="20180908T081534Z">
+        <seg>Цілковита, абсолютна влада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Blocks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074604Z" creationid="olexandr" creationdate="20180629T074604Z">
+        <seg>Прості блоки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Combat</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074625Z" creationid="olexandr" creationdate="20180629T074625Z">
+        <seg>Просте спорядження</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Decorations</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074609Z" creationid="olexandr" creationdate="20180629T074609Z">
+        <seg>Проста декорація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Machines</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074629Z" creationid="olexandr" creationdate="20180629T074629Z">
+        <seg>Прості машини</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Materials</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074613Z" creationid="olexandr" creationdate="20180629T074613Z">
+        <seg>Прості матеріали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Tools</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074618Z" creationid="olexandr" creationdate="20180629T074618Z">
+        <seg>Прості інструменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sinisite Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091524Z" creationid="olexandr" creationdate="20180629T091524Z">
+        <seg>Синіситові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sinisite Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084558Z" creationid="olexandr" creationdate="20181020T084558Z">
+        <seg>Синіситовий блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sinisite Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091518Z" creationid="olexandr" creationdate="20180629T091518Z">
+        <seg>Сходи з синіситової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sinisite Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091505Z" creationid="olexandr" creationdate="20180629T091505Z">
+        <seg>Синіситова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stand out from the crowd with a stylish pair of adamantium leggings!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T081055Z" creationid="olexandr" creationdate="20180908T081055Z">
+        <seg>Виділяйся з натовпу парою стильних адамантових наголінників!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092329Z" creationid="olexandr" creationdate="20180629T092310Z">
+        <seg>Сталева сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075417Z" creationid="olexandr" creationdate="20180629T075417Z">
+        <seg>Сталеві грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092123Z" creationid="olexandr" creationdate="20180629T092123Z">
+        <seg>Сталевий блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075349Z" creationid="olexandr" creationdate="20180629T075349Z">
+        <seg>Сходи з сталевої цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075233Z" creationid="olexandr" creationdate="20180629T075233Z">
+        <seg>Сталева цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092334Z" creationid="olexandr" creationdate="20180629T092334Z">
+        <seg>Сталева мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092211Z" creationid="olexandr" creationdate="20180629T092211Z">
+        <seg>Сталевий зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092306Z" creationid="olexandr" creationdate="20180629T092306Z">
+        <seg>Сталеве кайло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Shears</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092341Z" creationid="olexandr" creationdate="20180629T092341Z">
+        <seg>Сталеві ножиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092317Z" creationid="olexandr" creationdate="20180629T092317Z">
+        <seg>Сталева лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092323Z" creationid="olexandr" creationdate="20180629T092323Z">
+        <seg>Сталевий меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Suit Up</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180713T142341Z" creationid="olexandr" creationdate="20180713T142341Z">
+        <seg>Костюм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Super Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092615Z" creationid="olexandr" creationdate="20180629T092615Z">
+        <seg>Супер піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Furnace</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084830Z" creationid="olexandr" creationdate="20181020T084830Z">
+        <seg>Тестова піч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Furnace Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T080540Z" creationid="olexandr" creationdate="20180908T080540Z">
+        <seg>Тестовий блок печі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test Furnace Container</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180908T080613Z" creationid="olexandr" creationdate="20180908T080613Z">
+        <seg>Тестовий контейнер печі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The latest version is §c</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074817Z" creationid="olexandr" creationdate="20180629T074817Z">
+        <seg>Крайня версія: §c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thyrium Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075427Z" creationid="olexandr" creationdate="20180629T075427Z">
+        <seg>Туріомові грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thyrium Block</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084537Z" creationid="olexandr" creationdate="20181020T084537Z">
+        <seg>Туріомовий блок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thyrium Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075411Z" creationid="olexandr" creationdate="20180629T075411Z">
+        <seg>Сходи з туріомової цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thyrium Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075342Z" creationid="olexandr" creationdate="20180629T075342Z">
+        <seg>Туріумова цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thyrium Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092249Z" creationid="olexandr" creationdate="20180629T092249Z">
+        <seg>Туріомовий зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Axe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073959Z" creationid="olexandr" creationdate="20180629T073959Z">
+        <seg>Олов'яна сокира</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Bars</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075137Z" creationid="olexandr" creationdate="20180629T075137Z">
+        <seg>Олов'яні грати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Boots</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074505Z" creationid="olexandr" creationdate="20180629T074505Z">
+        <seg>Олов'яні чоботи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Brick Stairs</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075103Z" creationid="olexandr" creationdate="20180629T075103Z">
+        <seg>Сходи з олов'яної цегли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Bricks</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075036Z" creationid="olexandr" creationdate="20180629T075036Z">
+        <seg>Олов'яна цегла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Chestplate</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074303Z" creationid="olexandr" creationdate="20180629T074303Z">
+        <seg>Олов'яний нагрудник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Door</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075225Z" creationid="olexandr" creationdate="20180629T075225Z">
+        <seg>Олов'яні двері</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Helmet</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074255Z" creationid="olexandr" creationdate="20180629T074255Z">
+        <seg>Олов'яний шолом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Hoe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074014Z" creationid="olexandr" creationdate="20180629T074014Z">
+        <seg>Олов'яна мотика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Ingot</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073610Z" creationid="olexandr" creationdate="20180629T073610Z">
+        <seg>Олов'яний зливок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Leggings</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074414Z" creationid="olexandr" creationdate="20180629T074414Z">
+        <seg>Олов'яні наголінники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Ore</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073333Z" creationid="olexandr" creationdate="20180629T073333Z">
+        <seg>Олов'яна руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Pickaxe</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T073951Z" creationid="olexandr" creationdate="20180629T073951Z">
+        <seg>Олов'яне кайло</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Shears</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074205Z" creationid="olexandr" creationdate="20180629T074205Z">
+        <seg>Олов'яні ножиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Shovel</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074006Z" creationid="olexandr" creationdate="20180629T074006Z">
+        <seg>Олов'яна лопата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tin Sword</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074010Z" creationid="olexandr" creationdate="20180629T074010Z">
+        <seg>Олов'яний меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tip Info</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20181020T084751Z" creationid="olexandr" creationdate="20181020T084751Z">
+        <seg>Інформаційні підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tips</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092355Z" creationid="olexandr" creationdate="20180629T092355Z">
+        <seg>Підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tooltips</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090023Z" creationid="olexandr" creationdate="20180629T090023Z">
+        <seg>Підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade II?</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090232Z" creationid="olexandr" creationdate="20180629T090232Z">
+        <seg>Покращення II?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to SimpleOres!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074523Z" creationid="olexandr" creationdate="20180629T074523Z">
+        <seg>Вітаємо у SimpleOres!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Knight</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T090838Z" creationid="olexandr" creationdate="20180629T090838Z">
+        <seg>Білий лицар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who Would Ever Use These?</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180713T142620Z" creationid="olexandr" creationdate="20180713T142620Z">
+        <seg>Чи хтось користувався б цим?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your enemies will tremble in fear</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T091028Z" creationid="olexandr" creationdate="20180629T091028Z">
+        <seg>Твої вороги тремтітимуть від жаху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§3Aesthetics §ris out of date.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075503Z" creationid="olexandr" creationdate="20180629T075503Z">
+        <seg>§3Aesthetics §r застарів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§3Machines §ris out of date.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T074800Z" creationid="olexandr" creationdate="20180629T074800Z">
+        <seg>§3Machines §r застарів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§aSticky!</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T092409Z" creationid="olexandr" creationdate="20180629T092409Z">
+        <seg>§aЛипкий!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>§r.</seg>
+      </tuv>
+      <tuv lang="UK-ua" changeid="olexandr" changedate="20180629T075510Z" creationid="olexandr" creationdate="20180629T075510Z">
+        <seg>§r.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
