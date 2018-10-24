@@ -1,0 +1,16 @@
+Pink	Рожевий
+Light Gray	Світло-сірий
+Cyan	Блакитний
+Purple	Пурпурний
+Brown	Коричневий
+White	Білий
+Orange	Рудий
+Magenta	Фіолетовий
+Light Blue	Світло-синій
+Yellow	Жовтий
+Lime	Лимонний
+Gray	Сірий
+Blue	Синій
+Green	Зелений
+Red	Червоний
+Black	Чорний

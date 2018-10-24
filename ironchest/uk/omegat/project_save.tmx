@@ -46,10 +46,82 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Black Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171941Z" creationid="olexandr" creationdate="20181019T171941Z">
+        <seg>Чорна мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172247Z" creationid="olexandr" creationdate="20181019T172247Z">
+        <seg>Чорна кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171801Z" creationid="olexandr" creationdate="20181019T171801Z">
+        <seg>Чорна діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171613Z" creationid="olexandr" creationdate="20181019T171613Z">
+        <seg>Чорна золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Black Iron Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203158Z" creationid="olexandr" creationdate="20181018T203158Z">
         <seg>Чорна залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172356Z" creationid="olexandr" creationdate="20181019T172356Z">
+        <seg>Чорна обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Black Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172125Z" creationid="olexandr" creationdate="20181019T172125Z">
+        <seg>Чорна срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171920Z" creationid="olexandr" creationdate="20181019T171920Z">
+        <seg>Синя мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172231Z" creationid="olexandr" creationdate="20181019T172231Z">
+        <seg>Синя кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171741Z" creationid="olexandr" creationdate="20181019T171741Z">
+        <seg>Синя діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +142,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blue Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172338Z" creationid="olexandr" creationdate="20181019T172338Z">
+        <seg>Синя обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172103Z" creationid="olexandr" creationdate="20181019T172103Z">
+        <seg>Синя срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171926Z" creationid="olexandr" creationdate="20181019T171926Z">
+        <seg>Коричнева мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172234Z" creationid="olexandr" creationdate="20181019T172234Z">
+        <seg>Коричнева кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171747Z" creationid="olexandr" creationdate="20181019T171747Z">
+        <seg>Коричнева діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brown Gold Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212221Z" creationid="olexandr" creationdate="20181018T212221Z">
@@ -82,6 +194,22 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203139Z" creationid="olexandr" creationdate="20181018T203139Z">
         <seg>Коричнева залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172341Z" creationid="olexandr" creationdate="20181019T172341Z">
+        <seg>Коричнева обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brown Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172109Z" creationid="olexandr" creationdate="20181019T172109Z">
+        <seg>Коричнева срібна коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copper to Iron Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172510Z" creationid="olexandr" creationdate="20181019T172510Z">
+        <seg>Доробка мідної коробки шалкера до залізної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copper to Silver Chest Upgrade</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191220Z" creationid="olexandr" creationdate="20181018T191220Z">
@@ -110,10 +246,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copper to Silver Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172451Z" creationid="olexandr" creationdate="20181019T172451Z">
+        <seg>Доробка мідної коробки шалкера до срібної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Crystal Chest</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191134Z" creationid="olexandr" creationdate="20181018T191134Z">
         <seg>Кришталева скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyan Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171906Z" creationid="olexandr" creationdate="20181019T171906Z">
+        <seg>Блакитна мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyan Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172219Z" creationid="olexandr" creationdate="20181019T172219Z">
+        <seg>Блакитна кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyan Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171728Z" creationid="olexandr" creationdate="20181019T171728Z">
+        <seg>Блакитна діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cyan Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172327Z" creationid="olexandr" creationdate="20181019T172327Z">
+        <seg>Блакитна обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cyan Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172051Z" creationid="olexandr" creationdate="20181019T172051Z">
+        <seg>Блакитна срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diamond Chest</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191118Z" creationid="olexandr" creationdate="20181018T191118Z">
@@ -150,10 +334,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Diamond to Crystal Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172522Z" creationid="olexandr" creationdate="20181019T172522Z">
+        <seg>Доробка діамантової коробки шалкера до кришталевої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diamond to Obsidian Chest Upgrade</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191336Z" creationid="olexandr" creationdate="20181018T191336Z">
         <seg>Доробка діамантової скрині до обсидіанової</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diamond to Obsidian Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172609Z" creationid="olexandr" creationdate="20181019T172609Z">
+        <seg>Доробка діамантової коробки шалкера до обсидіанової</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +382,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gold to Diamond Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172440Z" creationid="olexandr" creationdate="20181019T172440Z">
+        <seg>Доробка золотої коробки шалкера до діамантової</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gray Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171850Z" creationid="olexandr" creationdate="20181019T171850Z">
+        <seg>Сіра мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gray Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172206Z" creationid="olexandr" creationdate="20181019T172206Z">
+        <seg>Сіра кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gray Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171715Z" creationid="olexandr" creationdate="20181019T171715Z">
+        <seg>Сіра діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gray Gold Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T212136Z" creationid="olexandr" creationdate="20181018T212136Z">
@@ -198,10 +430,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gray Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172320Z" creationid="olexandr" creationdate="20181019T172320Z">
+        <seg>Сіра обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gray Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172028Z" creationid="olexandr" creationdate="20181019T172028Z">
+        <seg>Сіра срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171932Z" creationid="olexandr" creationdate="20181019T171932Z">
+        <seg>Зелена мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172238Z" creationid="olexandr" creationdate="20181019T172238Z">
+        <seg>Зелена кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171751Z" creationid="olexandr" creationdate="20181019T171751Z">
+        <seg>Зелена діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171604Z" creationid="olexandr" creationdate="20181019T171604Z">
+        <seg>Зелена золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Green Iron Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203145Z" creationid="olexandr" creationdate="20181018T203145Z">
         <seg>Зелена залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172344Z" creationid="olexandr" creationdate="20181019T172344Z">
+        <seg>Зелена обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Green Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172113Z" creationid="olexandr" creationdate="20181019T172113Z">
+        <seg>Зелена срібна коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +534,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Iron to Gold Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172423Z" creationid="olexandr" creationdate="20181019T172423Z">
+        <seg>Доробка залізної коробки шалкера до золотої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kind regards, The DirtChest 9000 manual writers incorporated."</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191438Z" creationid="olexandr" creationdate="20181018T191438Z">
         <seg>З повагою, автори посібника Замлесхрону 9000."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light Blue Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171829Z" creationid="olexandr" creationdate="20181019T171829Z">
+        <seg>Світло-синя мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light Blue Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172152Z" creationid="olexandr" creationdate="20181019T172152Z">
+        <seg>Світло-синя кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light Blue Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171646Z" creationid="olexandr" creationdate="20181019T171646Z">
+        <seg>Світло-синя діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +590,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Light Blue Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172308Z" creationid="olexandr" creationdate="20181019T172308Z">
+        <seg>Світло-синя обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light Blue Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172007Z" creationid="olexandr" creationdate="20181019T172007Z">
+        <seg>Світло-синя срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171839Z" creationid="olexandr" creationdate="20181019T171839Z">
+        <seg>Лаймова мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172159Z" creationid="olexandr" creationdate="20181019T172159Z">
+        <seg>Лаймова кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171703Z" creationid="olexandr" creationdate="20181019T171703Z">
+        <seg>Лаймова діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lime Gold Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203259Z" creationid="olexandr" creationdate="20181018T203259Z">
@@ -274,6 +642,46 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203015Z" creationid="olexandr" creationdate="20181018T203015Z">
         <seg>Лаймова залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172314Z" creationid="olexandr" creationdate="20181019T172314Z">
+        <seg>Лаймова обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lime Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172019Z" creationid="olexandr" creationdate="20181019T172019Z">
+        <seg>Лаймова срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magenta Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171824Z" creationid="olexandr" creationdate="20181019T171824Z">
+        <seg>Фіолетова мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magenta Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172148Z" creationid="olexandr" creationdate="20181019T172148Z">
+        <seg>Фіолетова кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magenta Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171637Z" creationid="olexandr" creationdate="20181019T171637Z">
+        <seg>Фіолетова діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,10 +702,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Magenta Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172304Z" creationid="olexandr" creationdate="20181019T172304Z">
+        <seg>Фіолетова обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magenta Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172004Z" creationid="olexandr" creationdate="20181019T172004Z">
+        <seg>Фіолетова срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Obsidian Chest</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191139Z" creationid="olexandr" creationdate="20181018T191139Z">
         <seg>Обсидіанова скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orange Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171818Z" creationid="olexandr" creationdate="20181019T171818Z">
+        <seg>Руда мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orange Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172145Z" creationid="olexandr" creationdate="20181019T172145Z">
+        <seg>Руда кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orange Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171628Z" creationid="olexandr" creationdate="20181019T171628Z">
+        <seg>Руда діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +766,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orange Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172301Z" creationid="olexandr" creationdate="20181019T172301Z">
+        <seg>Руда обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orange Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171959Z" creationid="olexandr" creationdate="20181019T171959Z">
+        <seg>Руда срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pink Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171846Z" creationid="olexandr" creationdate="20181019T171846Z">
+        <seg>Рожева мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pink Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172203Z" creationid="olexandr" creationdate="20181019T172203Z">
+        <seg>Рожева кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pink Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171708Z" creationid="olexandr" creationdate="20181019T171708Z">
+        <seg>Рожева діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pink Gold Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203304Z" creationid="olexandr" creationdate="20181018T203304Z">
@@ -334,10 +822,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pink Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172317Z" creationid="olexandr" creationdate="20181019T172317Z">
+        <seg>Рожева обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pink Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172023Z" creationid="olexandr" creationdate="20181019T172023Z">
+        <seg>Рожева срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191515Z" creationid="olexandr" creationdate="20181018T191515Z">
         <seg>Будь ласка, утилізуйте цей посібник відповідально, а не як зазвичай, кидаючи у лаву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purple Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171913Z" creationid="olexandr" creationdate="20181019T171913Z">
+        <seg>Пурпурна мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purple Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172222Z" creationid="olexandr" creationdate="20181019T172222Z">
+        <seg>Пурпурна кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purple Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171736Z" creationid="olexandr" creationdate="20181019T171736Z">
+        <seg>Пурпурна діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +886,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Purple Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172330Z" creationid="olexandr" creationdate="20181019T172330Z">
+        <seg>Пурпурна обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purple Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172057Z" creationid="olexandr" creationdate="20181019T172057Z">
+        <seg>Пурпурна срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171936Z" creationid="olexandr" creationdate="20181019T171936Z">
+        <seg>Червона мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172242Z" creationid="olexandr" creationdate="20181019T172242Z">
+        <seg>Червона кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171756Z" creationid="olexandr" creationdate="20181019T171756Z">
+        <seg>Червона діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red Gold Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171608Z" creationid="olexandr" creationdate="20181019T171608Z">
+        <seg>Червона золота коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Red Iron Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203151Z" creationid="olexandr" creationdate="20181018T203151Z">
@@ -366,10 +942,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Red Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172350Z" creationid="olexandr" creationdate="20181019T172350Z">
+        <seg>Червона обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172121Z" creationid="olexandr" creationdate="20181019T172121Z">
+        <seg>Червона срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Silver Chest</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191128Z" creationid="olexandr" creationdate="20181018T191128Z">
         <seg>Срібна скриня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171900Z" creationid="olexandr" creationdate="20181019T171900Z">
+        <seg>Світло-сіра мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172213Z" creationid="olexandr" creationdate="20181019T172213Z">
+        <seg>Світло-сіра кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171723Z" creationid="olexandr" creationdate="20181019T171723Z">
+        <seg>Світло-сіра діамантова коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,10 +1006,122 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Silver Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172323Z" creationid="olexandr" creationdate="20181019T172323Z">
+        <seg>Світло-сіра обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172044Z" creationid="olexandr" creationdate="20181019T172034Z">
+        <seg>Світло-сіра срібна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Silver to Gold Chest Upgrade</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T191230Z" creationid="olexandr" creationdate="20181018T191230Z">
         <seg>Доробка срібної скрині до золотої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Silver to Gold Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172459Z" creationid="olexandr" creationdate="20181019T172459Z">
+        <seg>Доробка срібної коробки шалкера до золотої</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Copper Shulker Box to a Iron Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172813Z" creationid="olexandr" creationdate="20181019T172813Z">
+        <seg>Використовується для доробки мідної коробки шалкера до залізної\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Copper Shulker Box to a Silver Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172750Z" creationid="olexandr" creationdate="20181019T172750Z">
+        <seg>Використовується для доробки мідної коробки шалкера до срібної\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Diamond Shulker Box to a Crystal Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172826Z" creationid="olexandr" creationdate="20181019T172826Z">
+        <seg>Використовується для доробки діамантової коробки шалкера до кришталевої\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Diamond Shulker Box to a Obsidian Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172858Z" creationid="olexandr" creationdate="20181019T172858Z">
+        <seg>Використовується для доробки діамантової коробки шалкера до обсидіанової\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Gold Shulker Box to a Diamond Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172731Z" creationid="olexandr" creationdate="20181019T172731Z">
+        <seg>Використовується для доробки золотої коробки шалкера до діамантової\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Iron Shulker Box to a Gold Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172715Z" creationid="olexandr" creationdate="20181019T172715Z">
+        <seg>Використовується для доробки залізної коробки шалкера до золотої\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Silver Shulker Box to a Gold Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172759Z" creationid="olexandr" creationdate="20181019T172759Z">
+        <seg>Використовується для доробки срібної коробки шалкера до золотої\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Vanilla Shulker Box to a Copper Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172848Z" creationid="olexandr" creationdate="20181019T172848Z">
+        <seg>Використовується для доробки звичайної коробки шалкера до мідної\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used to upgrade a Vanilla Shulker Box to a Iron Shulker Box\nThe color of the Shulker Box will stay the same.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172835Z" creationid="olexandr" creationdate="20181019T172835Z">
+        <seg>Використовується для доробки звичайної коробки шалкера до залізної\nКолір коробки лишається той самий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vanilla to Copper Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172555Z" creationid="olexandr" creationdate="20181019T172555Z">
+        <seg>Доробка звичайної коробки шалкера до мідної</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vanilla to Iron Shulker Box Upgrade</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172546Z" creationid="olexandr" creationdate="20181019T172546Z">
+        <seg>Доробка звичайної коробки шалкера до залізної</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +1142,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>White Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171813Z" creationid="olexandr" creationdate="20181019T171813Z">
+        <seg>Біла мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172141Z" creationid="olexandr" creationdate="20181019T172141Z">
+        <seg>Біла кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171623Z" creationid="olexandr" creationdate="20181019T171623Z">
+        <seg>Біла діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>White Gold Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203228Z" creationid="olexandr" creationdate="20181018T203228Z">
@@ -426,6 +1178,22 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202910Z" creationid="olexandr" creationdate="20181018T202910Z">
         <seg>Біла залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172258Z" creationid="olexandr" creationdate="20181019T172258Z">
+        <seg>Біла обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171956Z" creationid="olexandr" creationdate="20181019T171956Z">
+        <seg>Біла срібна коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +1214,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yellow Copper Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171834Z" creationid="olexandr" creationdate="20181019T171834Z">
+        <seg>Жовта мідна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yellow Crystal Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172155Z" creationid="olexandr" creationdate="20181019T172155Z">
+        <seg>Жовта кришталева коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yellow Diamond Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T171652Z" creationid="olexandr" creationdate="20181019T171652Z">
+        <seg>Жовта діамантова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yellow Gold Shulker Box</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T203252Z" creationid="olexandr" creationdate="20181018T203252Z">
@@ -458,6 +1250,22 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T202957Z" creationid="olexandr" creationdate="20181018T202957Z">
         <seg>Жовта залізна коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yellow Obsidian Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172311Z" creationid="olexandr" creationdate="20181019T172311Z">
+        <seg>Жовта обсидіанова коробка шалкера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yellow Silver Shulker Box</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181019T172013Z" creationid="olexandr" creationdate="20181019T172013Z">
+        <seg>Жовта срібна коробка шалкера</seg>
       </tuv>
     </tu>
     <tu>
