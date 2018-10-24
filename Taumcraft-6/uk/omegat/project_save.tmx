@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggression Module</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172432Z" creationid="olexandr" creationdate="20181023T172432Z">
+        <seg>Модуль агресії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Air</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T214749Z" creationid="olexandr" creationdate="20181011T214749Z">
@@ -218,6 +226,22 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T150541Z" creationid="olexandr" creationdate="20181012T150541Z">
         <seg>Всі големи можуть виконувати ці завдання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows the golem to carry two stack of items instead of one.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172405Z" creationid="olexandr" creationdate="20181023T172405Z">
+        <seg>Дозволяє голему нести 2 стака предметів замість одного.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows the golem to engage in combat.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172455Z" creationid="olexandr" creationdate="20181023T172455Z">
+        <seg>Дозволяє големам брати участь в бою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ancient Stone Stairs</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T171745Z" creationid="olexandr" creationdate="20181023T171745Z">
+        <seg>Сходи із ветхого каменю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ancient Stone Tile</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T201940Z" creationid="olexandr" creationdate="20181022T201940Z">
@@ -382,6 +414,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arcane Stone Brick</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T171858Z" creationid="olexandr" creationdate="20181023T171623Z">
+        <seg>Цегла із затаєного каменю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arcane Stone Stairs</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T171713Z" creationid="olexandr" creationdate="20181023T171713Z">
+        <seg>Сходи із затаєного каменю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arcane Workbench</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T151240Z" creationid="olexandr" creationdate="20181012T145324Z">
@@ -402,6 +450,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T145839Z" creationid="olexandr" creationdate="20181012T145839Z">
         <seg>Область</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Armor Plating</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172524Z" creationid="olexandr" creationdate="20181023T172524Z">
+        <seg>Броньована обшивка</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,10 +766,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calibrate</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172906Z" creationid="olexandr" creationdate="20181023T172906Z">
+        <seg>Калібрування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Capacity</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T212315Z" creationid="olexandr" creationdate="20181012T212315Z">
         <seg>Місткість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carry Frame</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172422Z" creationid="olexandr" creationdate="20181023T172422Z">
+        <seg>Підсилений каркас</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Eldritch Stone</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T171645Z" creationid="olexandr" creationdate="20181023T171645Z">
+        <seg>Надприродній камінь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enchanted Fabric</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181018T214028Z" creationid="olexandr" creationdate="20181018T214028Z">
@@ -1478,10 +1558,106 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gain %1$s Artifice.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172840Z" creationid="olexandr" creationdate="20181023T172840Z">
+        <seg>Надає %1$s до категорії Винаходи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain %1$s to %2$s Artifice.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172822Z" creationid="olexandr" creationdate="20181023T172822Z">
+        <seg>Надає %1$s - %2$s до категорії Винаходи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain %3$s Infusion.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172937Z" creationid="olexandr" creationdate="20181023T172937Z">
+        <seg>Надає %3$s балів до категорії Вливання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 15 Alchemy and 1 bonus draw.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173115Z" creationid="olexandr" creationdate="20181023T173115Z">
+        <seg>Надає 15 балів до категорії Алхімія та бонусну карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 15 Artifice and a bonus draw.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172901Z" creationid="olexandr" creationdate="20181023T172901Z">
+        <seg>Надає 15 балів до категорії Винаходи та бонусну карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 15 Auromancy and a bonus draw.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173202Z" creationid="olexandr" creationdate="20181023T173202Z">
+        <seg>Надає 15 балів до категорії Ауромантія та бонусну карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 15 Infusion progress and 1 bonus draw.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173057Z" creationid="olexandr" creationdate="20181023T173057Z">
+        <seg>Надає 15 балів до категорії Вливання та бонусну карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gain 15 to 30 progress in a completely random category.</seg>
       </tuv>
-      <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T192159Z" creationid="olexandr" creationdate="20181022T192159Z">
-        <seg>Ви отримуєте 15-30 балів поступу у випадковій категорії.</seg>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173948Z" creationid="olexandr" creationdate="20181022T192159Z">
+        <seg>Надає 15-30 балів поступу у випадковій категорії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 20 Auromancy.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173151Z" creationid="olexandr" creationdate="20181023T173151Z">
+        <seg>Надає 20 балів до категорії Ауромантія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 20 Golemancy and a bonus draw.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173300Z" creationid="olexandr" creationdate="20181023T173218Z">
+        <seg>Надає 20 балів до категорії Големо-будівництво та бонусну карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 25 Alchemy.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173106Z" creationid="olexandr" creationdate="20181023T173106Z">
+        <seg>Надає 25 балів до категорії Алхімія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 25 Golemancy.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173307Z" creationid="olexandr" creationdate="20181023T173307Z">
+        <seg>Надає 25 балів до категорії Големо-будівництво.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 25 Infusion.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172953Z" creationid="olexandr" creationdate="20181023T172953Z">
+        <seg>Надає 25 балів до категорії Вливання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1666,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T193032Z" creationid="olexandr" creationdate="20181022T193032Z">
         <seg>Отримуєте 25 балів поступу, розділених між вивченими категоріями, та додаткову бонусну карту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gain 40 Alchemy.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173043Z" creationid="olexandr" creationdate="20181023T173043Z">
+        <seg>Надає 40 балів до категорії Алхімія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,10 +1702,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Golem Press</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172014Z" creationid="olexandr" creationdate="20181023T172014Z">
+        <seg>Големний перс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Golemancy</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T202605Z" creationid="olexandr" creationdate="20180816T202605Z">
         <seg>Големо-будівництво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grants the golem increased durability.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172552Z" creationid="olexandr" creationdate="20181023T172552Z">
+        <seg>Надає підвищену міцність голему.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1910,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I will stay here, Master.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172318Z" creationid="olexandr" creationdate="20181023T172318Z">
+        <seg>Я чекатиму тут, Майстре.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm coming, Master!</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172332Z" creationid="olexandr" creationdate="20181023T172332Z">
+        <seg>Йду за вами, Майстре!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ice, Frost, Cold</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T214818Z" creationid="olexandr" creationdate="20181011T214818Z">
@@ -1754,6 +1970,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T211503Z" creationid="olexandr" creationdate="20181011T211503Z">
         <seg>У ньому я взяв три кристала, які знайшов нещодавно, та подрібнив їх у мисці шматком кремнію із додаванням купки червоного каменю."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Infernal Furnace</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172051Z" creationid="olexandr" creationdate="20181023T172051Z">
+        <seg>Пекельна піч</seg>
       </tuv>
     </tu>
     <tu>
@@ -2050,6 +2274,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181011T212923Z" creationid="olexandr" creationdate="20181011T212923Z">
         <seg>Привʼязано до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Liquid Death</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172205Z" creationid="olexandr" creationdate="20181023T172205Z">
+        <seg>Рідка смерть</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +2978,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T145003Z" creationid="olexandr" creationdate="20181012T145003Z">
         <seg>Швидкість снаряду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purifying Fluid</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T172249Z" creationid="olexandr" creationdate="20181023T172249Z">
+        <seg>Рідина для очищення</seg>
       </tuv>
     </tu>
     <tu>
@@ -4672,8 +4912,8 @@
       <tuv lang="en">
         <seg>You perform some random experiments to see if something can be discovered.</seg>
       </tuv>
-      <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T192116Z" creationid="olexandr" creationdate="20181022T192116Z">
-        <seg>а проводите ряд випадкових експериментів, аби побачити що з цього можна дослідити.</seg>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181023T173915Z" creationid="olexandr" creationdate="20181022T192116Z">
+        <seg>Ви проводите ряд випадкових експериментів, аби побачити що з цього можна дослідити.</seg>
       </tuv>
     </tu>
     <tu>
