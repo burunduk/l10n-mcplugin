@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A moment of revelation shows you the common links between all you have been studying.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143031Z" creationid="olexandr" creationdate="20181104T143031Z">
+        <seg>Мить одкровення показує вам дещо, що повʼязує між собою усе те, що ви вивчали до цього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A ruby portal opens nearby, heralding the arrival of the Crimson Cult.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T162338Z" creationid="olexandr" creationdate="20181012T162338Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to concentrate some %1$s essentia.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151255Z" creationid="olexandr" creationdate="20181104T151255Z">
+        <seg>Ви намагаєтесь сконцентрувати трохи есенції «%1$s».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aura, Vis</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T200536Z" creationid="olexandr" creationdate="20181022T200536Z">
@@ -816,8 +832,8 @@
       <tuv lang="en">
         <seg>Channel %1$s Essentia</seg>
       </tuv>
-      <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T194332Z" creationid="olexandr" creationdate="20181022T194332Z">
-        <seg>Направити есенцію %1$s</seg>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T152100Z" creationid="olexandr" creationdate="20181022T194332Z">
+        <seg>Направлення есенції %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Draconic Studies</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144153Z" creationid="olexandr" creationdate="20181104T144153Z">
+        <seg>Вчення Дракона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duration (seconds)</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T144743Z" creationid="olexandr" creationdate="20181012T144743Z">
@@ -1346,6 +1370,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T145509Z" creationid="olexandr" creationdate="20181012T145509Z">
         <seg>Витрати досвіду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Experimental Infusion</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T152038Z" creationid="olexandr" creationdate="20181104T152038Z">
+        <seg>Експериментальне вливання</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2034,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T193640Z" creationid="olexandr" creationdate="20181022T193640Z">
         <seg>Натхнення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inspired by the progress you have made so far, your mind explores paths you have not considered before.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143553Z" creationid="olexandr" creationdate="20181104T143553Z">
+        <seg>Отримавши такий успіх у дослідженні, Ваш розум відкриває додаткові шляхи, про які ви раніше не замислювалися до цього.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2730,22 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180816T203005Z" creationid="olexandr" creationdate="20180816T203005Z">
         <seg>Спостереження</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Occasionally you glimpse strange order in the chaos.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144327Z" creationid="olexandr" creationdate="20181104T144327Z">
+        <seg>Час від часу Ви бачите деяку послідовність в даному хаосі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Often much can be learned by concentrating a substance into its purest form.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151216Z" creationid="olexandr" creationdate="20181104T151216Z">
+        <seg>Зазвичай багато інформації про речовину можна отримати, сконцентрувавши її у чистому вигляді.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Studying the reactions between two different types of vis should prove beneficial.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151421Z" creationid="olexandr" creationdate="20181104T151421Z">
+        <seg>Вивчення реакції між декількома видами Віс повинно дати результат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such strange wonders are being revealed to me.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T070655Z" creationid="olexandr" creationdate="20181014T070655Z">
@@ -3958,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The aura around the egg swirls with strange and chaotic energies.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144255Z" creationid="olexandr" creationdate="20181104T144255Z">
+        <seg>Аура навколо яйця вирує із дивною, хаотичною енергією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The book calls Vis in this state Essentia.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T083342Z" creationid="olexandr" creationdate="20181014T083342Z">
@@ -4050,6 +4122,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T084932Z" creationid="olexandr" creationdate="20181014T084932Z">
         <seg>Існує дві основні напрямки: Спостереження та Теорія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is also a chance you will gain 1 inspiration.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151319Z" creationid="olexandr" creationdate="20181104T151319Z">
+        <seg>З деяким шансом відновлює 1 бал натхнення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4574,10 +4654,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When essentia combines to form more complex forms a number of interesting and intricate reactions take place.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151605Z" creationid="olexandr" creationdate="20181104T151605Z">
+        <seg>Коли есенції обʼєднуються між собою для створення більш складних форм, відбувається ряд досить цікавих та складних реакцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where Vis is formless and pure, Essentia is more rigid in its nature and falls into a multitude of clearly defined types, each mixing together with others to form greater and more complex types of essentia.&lt;BR&gt;I am not quite sure if the matter it is bound to gives Essentia its nature, or that the very nature of matter depends on the Essentia it contains.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181014T084449Z" creationid="olexandr" creationdate="20181014T084449Z">
         <seg>На відміну від Віс, який є безформним та чистим видом енергії, Есенція більш приземлена, і поділяється на різні типи, які в свою чергу можна комбінувати створюючи ще вагоміші та складніші форми Есенції.&lt;BR&gt;Я не впевнений, чи впливає матерія на приналежність Есенції до якогось типу, чи сама природа матерії залежить від Есенції, що міститься в ній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While examining a curio often reveals some interesting information it is much better to study it as part of controlled research.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143420Z" creationid="olexandr" creationdate="20181104T143420Z">
+        <seg>Під час вивчення рідкості можна отримати деяку цікаву інформацію, проте на порядок краще це робити під час контрольованого дослідження.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are sure that is shares a lot in common with the enchantment methods used in Infusion and Artifice.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143747Z" creationid="olexandr" creationdate="20181104T143747Z">
+        <seg>Ви переконані, що воно має багато спільного із методами, які використовуються у Вливанні та Винаходах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are unable to take notes of your studies.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T200411Z" creationid="olexandr" creationdate="20181022T200411Z">
@@ -4750,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You believe that the beacon interacts in some way with the mystical aura.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143939Z" creationid="olexandr" creationdate="20181104T143939Z">
+        <seg>Ви вважаєте, що маяк певним чином взаємодіє із містичною аурою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You cannot craft this yet</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T145157Z" creationid="olexandr" creationdate="20181012T145157Z">
@@ -4762,6 +4874,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T192930Z" creationid="olexandr" creationdate="20181022T192930Z">
         <seg>Ви ретельно вивчаєте все те, що ви вже дізналися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You carefully study this and while you cannot find anything concrete this time you have been inspired.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144037Z" creationid="olexandr" creationdate="20181104T144037Z">
+        <seg>Ви уважно вивчаєте його, хоча і не знаходите нічого конкретного, проте відчуваєте ц собі натхнення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4904,16 @@
       <tuv lang="en">
         <seg>You gain %1$s %2$s.</seg>
       </tuv>
-      <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T193732Z" creationid="olexandr" creationdate="20181022T193732Z">
-        <seg>ви отримуєте %1$s балів поступу в категорії %2$s.</seg>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143430Z" creationid="olexandr" creationdate="20181022T193732Z">
+        <seg>Ви отримуєте %1$s балів поступу в категорії %2$s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You gain 25 to 50 inspiration toward %1$s.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144535Z" creationid="olexandr" creationdate="20181104T144535Z">
+        <seg>Ви отримуєте від 25 до 50 балів поступу у категорії %1$s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,10 +5014,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You lose 5 experience levels, but will gain 15 to 20 progress in both Infusion and Auromancy.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143844Z" creationid="olexandr" creationdate="20181104T143844Z">
+        <seg>Ви втрачаєте 5 балів досвіду, але отримуєте від 15 до 20 балів поступу в категоріях Ауромантії та Вливанні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You lose all your progress in %1$s, but most of the lost progress is added to %2$s.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T193305Z" creationid="olexandr" creationdate="20181022T193305Z">
         <seg>Ви втрачаєте весь поступ в категорії %1$s, але більшість втраченого поступу додається до категорії %2$s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may gain other things as well...</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144556Z" creationid="olexandr" creationdate="20181104T144556Z">
+        <seg>Також є шанс отримати дещо інше...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4926,10 +5070,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You regain 2 inspiration, 1 bonus draw and an additional category will gain the full bonus upon completion.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144144Z" creationid="olexandr" creationdate="20181104T144144Z">
+        <seg>Ви відновлюєте 2 бали натхнення, та отримуєте 1 додаткову карту, а також додаткова категорія отримає повний бонус по завершенні дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You set up a simple experiment to examine what happens when you channel %1$s during infusion.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T152048Z" creationid="olexandr" creationdate="20181104T152021Z">
+        <seg>Ви ставите простий експеримент, аби дослідити що відбувається при направлені есенції «%1$s» під час вливання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should study what happens when %1$s essentia reacts with %2$s essentia.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151508Z" creationid="olexandr" creationdate="20181104T151508Z">
+        <seg>Ви повинні вивчити, що станеться при взаємодії есенцій «%1$s» із «%2$s».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You study %1$s and gain 15 to 25 progress.</seg>
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20180830T194851Z" creationid="olexandr" creationdate="20180830T194851Z">
         <seg>Ви вивчаєте категорію %1$s та отримуєте від 15 до 25 балів поступу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You study normal enchantment to see how it functions at a fundamental level.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143656Z" creationid="olexandr" creationdate="20181104T143656Z">
+        <seg>Ви вивчаєте звичне зачаровування, аби побачити, як воно діє на фундаментальному рівні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +5122,38 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181022T192533Z" creationid="olexandr" creationdate="20181022T192533Z">
         <seg>Ви робите крок назад та переосмислюєте свої результати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You take some of the celestial notes you have made and compare them for possible correlations with your primary research category.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T144507Z" creationid="olexandr" creationdate="20181104T144507Z">
+        <seg>Ви берете декілька нотаток по небосхилу, та порівнюєте їх, намагаючись знайти взаємозвʼязок із метою свого дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You take some time to make detailed measurements of various types of essentia and the potential vis they contain.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151851Z" creationid="olexandr" creationdate="20181104T151851Z">
+        <seg>Ви витрачаєте деякий час на детальне вимірювання різних типів есенцій та потенційного вмісту Віс, що вони містять у собі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You take some time to properly calibrate your instruments and tools.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T152155Z" creationid="olexandr" creationdate="20181104T152155Z">
+        <seg>Ви витрачаєте деякий час на калібрування своїх інструментів та засобів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will learn much by combining %1$s essentia with %2$s essentia and then studying the resulting combination.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T151720Z" creationid="olexandr" creationdate="20181104T151720Z">
+        <seg>Поєднавши між собою есенції «%1$s» та «%2$s» та дослідивши результат, Ви дізнаєтесь дещо нове.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,6 +5202,14 @@
       </tuv>
       <tuv lang="uk-ua" changeid="olexandr" changedate="20181012T161453Z" creationid="olexandr" creationdate="20181012T161453Z">
         <seg>Ваш живіт видає дуже дивне буркотіння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your total progress is split evenly amongst all currently revealed and valid categories and an additional category will gain the full bonus upon completion.</seg>
+      </tuv>
+      <tuv lang="uk-ua" changeid="olexandr" changedate="20181104T143212Z" creationid="olexandr" creationdate="20181104T143212Z">
+        <seg>Ваш поточний прогрес буде рівномірно розподілений між усіма відкритими та допустимими категоріями, а також ще одна категорія отримає повний бонус по завершенню дослідження.</seg>
       </tuv>
     </tu>
     <tu>
